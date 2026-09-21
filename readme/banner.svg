@@ -1,25 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="730" viewBox="0 0 1100 730" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="713" viewBox="0 0 1100 713" role="img">
   <defs>
-    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="50%" stop-color="#1F6FEB" />
-      <stop offset="100%" stop-color="#238636" />
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#110F0C" />
+      <stop offset="45%" stop-color="#1C1814" />
+      <stop offset="100%" stop-color="#2B241C" />
+    </linearGradient>
+    <linearGradient id="bannerGradSheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10" />
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect width="1100" height="730" rx="18" fill="url(#bannerGrad)" />
-  <text x="550" y="56" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Work With Me</text>
-  <text x="550" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Work with me: senior AI engineer, originally</text>
-  <text x="550" y="172" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">from Japan.</text>
-  <text x="550" y="212" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I am hunting for a long-term partner, not a</text>
-  <text x="550" y="252" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">short contract.</text>
-  <text x="550" y="292" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">The arrangement is around $3,000 / month for</text>
-  <text x="550" y="332" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">relatively little effort.</text>
-  <text x="550" y="398" text-anchor="middle" fill="#58A6FF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Senior AI engineer from Japan</text>
-  <text x="550" y="444" text-anchor="middle" fill="#58A6FF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Work with me long term</text>
-  <text x="550" y="490" text-anchor="middle" fill="#58A6FF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Around $3,000/month, small effort</text>
-  <path d="M408 570 L430 594 L452 570" fill="none" stroke="#58A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M528 570 L550 594 L572 570" fill="none" stroke="#58A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M648 570 L670 594 L692 570" fill="none" stroke="#58A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <rect x="410" y="626" width="280" height="56" rx="12" fill="#1F6FEB" />
-  <text x="550" y="662" text-anchor="middle" fill="#FFFFFF" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Visit website</text>
+  <rect width="1100" height="713" rx="22" fill="url(#bannerGrad)" />
+  <rect width="1100" height="713" rx="22" fill="url(#bannerGradSheen)" />
+  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Let's Build Together</text>
+  <line x1="420" y1="138" x2="680" y2="138" stroke="#FDE68A" stroke-width="1.5" stroke-opacity="0.45" />
+  <text x="550" y="172" text-anchor="middle" fill="#E7E5E4" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I build AI systems and come from Japan.</text>
+  <text x="550" y="210" text-anchor="middle" fill="#E7E5E4" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">If you like shipping, a shared setup could be</text>
+  <text x="550" y="248" text-anchor="middle" fill="#E7E5E4" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">beneficial for both of us.</text>
+  <text x="550" y="286" text-anchor="middle" fill="#E7E5E4" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I can put nearly $3,000 / month toward a</text>
+  <text x="550" y="324" text-anchor="middle" fill="#E7E5E4" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">partner who actually shows up.</text>
+  <text x="550" y="392" text-anchor="middle" fill="#FDE68A" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Building AI products full time</text>
+  <text x="550" y="435" text-anchor="middle" fill="#FDE68A" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Let's build together for real</text>
+  <text x="550" y="478" text-anchor="middle" fill="#FDE68A" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Nearly $3,000/month to share</text>
+  <path d="M456 557 L470 571 L484 557" fill="none" stroke="#FDE68A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M536 557 L550 571 L564 557" fill="none" stroke="#FDE68A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M616 557 L630 571 L644 557" fill="none" stroke="#FDE68A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <rect x="420" y="605" width="260" height="52" rx="26" fill="#FEF9C3" />
+  <text x="550" y="638" text-anchor="middle" fill="#1C1917" font-family="Fraunces, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
 </svg>
