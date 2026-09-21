@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="200" viewBox="0 0 1100 200" role="img">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B0764" />
+      <stop offset="50%" stop-color="#C026D3" />
+      <stop offset="100%" stop-color="#F0ABFC" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="200" rx="18" fill="url(#headerGrad)" />
+  <text x="550" y="100" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Let's Combine Skills</text>
+</svg>
