@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="288" viewBox="0 0 1100 288" role="img">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B0764" />
+      <stop offset="50%" stop-color="#C026D3" />
+      <stop offset="100%" stop-color="#F0ABFC" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="288" rx="16" fill="url(#introGrad)" />
+  <text x="550" y="62" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Senior AI engineer from Japan — I would like</text>
+  <text x="550" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">to combine skills with the right person.</text>
+  <text x="550" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Combined, we should both ship more and both</text>
+  <text x="550" y="182" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">come out ahead.</text>
+  <text x="550" y="222" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I can contribute nearly $3,000 / month for</text>
+  <text x="550" y="262" text-anchor="middle" fill="#FFFFFF" font-family="Josefin Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">relatively little effort.</text>
+</svg>
